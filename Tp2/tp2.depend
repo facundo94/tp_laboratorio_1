@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1474633065 source:c:\users\facu\desktop\jkhjkhjkhjkhjkhjkhjkhjukhjkhjkhjkhjk\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474633394 source:c:\users\facu\desktop\jkhjkhjkhjkhjkhjkhjkhjukhjkhjkhjkhjk\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474608051 c:\users\facu\desktop\jkhjkhjkhjkhjkhjkhjkhjukhjkhjkhjkhjk\funciones.h
+
+1474633394 source:c:\users\facu\desktop\tp_laboratorio_1\tp2\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474608051 c:\users\facu\desktop\tp_laboratorio_1\tp2\funciones.h
+
+1474633820 source:c:\users\facu\desktop\tp_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474655265 source:c:\users\facu\desktop\gualeguaychu\dsa\tp_laboratorio_1-master\tp2\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474655265 c:\users\facu\desktop\gualeguaychu\dsa\tp_laboratorio_1-master\tp2\funciones.h
+
+1474655265 source:c:\users\facu\desktop\gualeguaychu\dsa\tp_laboratorio_1-master\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
