@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1478913691 source:c:\users\facu\desktop\programazao\tps\ttpp33\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+	"movie.h"
+
+1478416170 c:\users\facu\desktop\programazao\tps\ttpp33\lib.h
+
+1477870267 c:\users\facu\desktop\programazao\tps\ttpp33\movie.h
+
+1478912888 source:c:\users\facu\desktop\programazao\tps\ttpp33\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"movie.h"
+
+1478915802 source:c:\users\facu\desktop\programazao\tps\ttpp33\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"lib.h"
+
+1477870267 source:c:\users\facu\desktop\programazao\tps\ttpp33\movie.h
+
